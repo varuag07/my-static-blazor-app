@@ -1,7 +1,7 @@
 ﻿.menu-list .active-link,
 .menu-list .router-link-active {
     color: #fff;
-    background-color: #00b3e6;
+    background-color: #5e43f1;
 }
 
 .not-found i {
@@ -89,8 +89,8 @@ header {
 }
 
     .content-title-group h2 {
-        border-left: 16px solid #00b3e6;
-        border-bottom: 2px solid #00b3e6;
+        border-left: 16px solid #5e43f1;
+        border-bottom: 2px solid #5e43f1;
         padding-left: 8px;
         padding-right: 16px;
         display: inline-block;
@@ -100,7 +100,7 @@ header {
     }
 
         .content-title-group h2:hover {
-            color: #00b3e6;
+            color: #5e43f1;
         }
 
     .content-title-group button.button {
@@ -109,7 +109,7 @@ header {
     }
 
         .content-title-group button.button:hover {
-            color: #00b3e6;
+            color: #5e43f1;
         }
 
 ul.list {
@@ -139,7 +139,7 @@ label.label {
 }
 
 p.card-header-title {
-    background-color: #00b3e6;
+    background-color: #5e43f1;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #fff;
@@ -157,7 +157,7 @@ p.card-header-title {
     }
 
     .card-footer button:hover {
-        color: #00b3e6;
+        color: #5e43f1;
     }
 
 .modal-card-foot button {
